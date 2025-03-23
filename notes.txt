@@ -1,0 +1,9 @@
+-added:
+	
+	player movement up-down-right-left
+	game environment design
+	tilemap
+	
+
+
+
